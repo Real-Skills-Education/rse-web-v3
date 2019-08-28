@@ -14,7 +14,7 @@ router.get('/', function (req, res) {
 
 router.get('/aboutus', function (req, res) {
     // res.send('<h1>Hello World!</h1>');
-    res.sendFile(path.join(__dirname+'/public/index.html'));
+    res.sendFile(path.join(__dirname+'/public/aboutus.html'));
 });
 
 router.get('/contact', function (req, res) {
