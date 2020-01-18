@@ -1,6 +1,8 @@
 # rse-web-v3
 Version 3 for RSE Website
+
 Template bought from Themeforest
+
 
 
 # How to use Website Template
@@ -18,6 +20,7 @@ Import pages (latest pages are in RSE Google Drive -> IT-> rse-web->pages, downl
 
 rseweb-latest_date -> Stack 2.0.6 -> Images
 Add images to this folder/page to add to website
+
 
 
 # Host Website
